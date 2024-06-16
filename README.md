@@ -62,13 +62,8 @@ $$---朴实无华的分界线---$$
 ---
 真寻酱好可爱，我推真寻第一可爱！
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/u3h104l2.png?x-oss-process=image/resize,m_lfit,h_400,w_400)
+![](https://cdn.luogu.com.cn/upload/image_hosting/u3h104l2.png)
 
 随机刷出老婆↓
 ![](https://image.anosu.top/pixiv)
 
----
-
-![](bilibili:BV1GJ411x7h7)
-
-[收起](https://www.luogu.com.cn/user/758591#%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84)
