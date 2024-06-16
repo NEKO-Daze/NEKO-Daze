@@ -41,11 +41,11 @@ $$——\space René\space Descartes$$
 $$---朴实无华的分界线---$$
 
 >众所周知主页要有几张头图
->![](http://oj.hetao101.com/file/1109/my-image.png)
+>![](https://github.com/NEKO-Daze/NEKO-Daze.github.io/blob/main/my-image.png)
 > ---
->![](https://cdn.luogu.com.cn/upload/image_hosting/1nl66t88.png)
-![](https://cdn.luogu.com.cn/upload/image_hosting/w83h98a4.png)
-![](https://cdn.luogu.com.cn/upload/image_hosting/souycio2.png)
+>![](https://cdn.luogu.com.cn/upload/image_hosting/1nl66t88.png?x-oss-process=image/resize,m_lfit,h_350,w_250)
+![](https://cdn.luogu.com.cn/upload/image_hosting/w83h98a4.png?x-oss-process=image/resize,m_lfit,h_350,w_250)
+![](https://cdn.luogu.com.cn/upload/image_hosting/souycio2.png?x-oss-process=image/resize,m_lfit,h_350,w_250)
 >
 >你们都是我的翅膀啊~！（深情
 ---
