@@ -22,15 +22,6 @@ $$——\space René\space Descartes$$
 | [INTJ](https://apesk.com/jungtest/result.asp?type=INTJ&Socre=56,57,62,46,44,43,51,41&nickName=neko) | [普及/提高-](https://www.luogu.com.cn/problem/list?difficulty=3&page=1) | [碧蓝档案](https://tmp.nulla.top/ba-logo/) |
 | [美图](https://www.luogu.com.cn/paste/mxoh02i6) | [$\color{black}OI \space wiki$](https://oi-wiki.org/) | [成分查询](https://www.luogu.com.cn/paste/yexpkdqq) |
 
- ---
->通知区：
->1. 因为要卷题所以可能不怎么会回私了望周知
->2. 70粉粉福会尽量找时间更。
->3. 更详细的介绍请见成分查询（旧主页全是图）
->4. 壶关条件如下 [link](https://www.luogu.com.cn/paste/3a0qogez)(已壶关的不取)
->
->~~D5. 人格启动！~~
-
 ---
 ### 新闻栏
 
@@ -63,7 +54,4 @@ $$---朴实无华的分界线---$$
 真寻酱好可爱，我推真寻第一可爱！
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/u3h104l2.png)
-
-随机刷出老婆↓
-![](https://image.anosu.top/pixiv)
 
