@@ -26,7 +26,7 @@ $\color{#ffffff}反差萌怎么了，我有逼你看吗$
 | ------- | ------ | ----- |
 | [粉福](https://www.luogu.com.cn/blog/megumiyingdao/fenfu) | [数学画图](https://www.geogebra.org/) | [图床1](https://s2.ax1x.com/) |
 | [正在修建的导航页…………](https://neko-daze.github.io/)  | [俄罗斯轮盘赌](https://buckshotroulette.online/game/v13/) | [图床2](https://www.helloimg.com/) |
-|  [旧主页](https://www.luogu.com.cn/paste/53ot6z4h)| [$\color{#83b1a6}GPT 2$](https://chat.openai-now.com/g/gpt-4-all) | [三国杀](https://www.lyciumaker.com/) |
+|  [旧主页](https://www.luogu.com.cn/paste/53ot6z4h)| [GPT 2](https://chat.openai-now.com/g/gpt-4-all) | [三国杀](https://www.lyciumaker.com/) |
 | [博客（在建）](https://neko-daze.github.io/NEW-Blog/) | [动态规划题单](https://www.luogu.com.cn/training/211#problems) | [诈骗](https://note.ms/NeverGonnaGiveYouUp) |
 | [INTJ](https://apesk.com/jungtest/result.asp?type=INTJ&Socre=56,57,62,46,44,43,51,41&nickName=neko) | [普及/提高-](https://www.luogu.com.cn/problem/list?difficulty=3&page=1) | [碧蓝档案](https://tmp.nulla.top/ba-logo/) |
 | [美图](https://www.luogu.com.cn/paste/mxoh02i6) | [OI wiki](https://oi-wiki.org/) | [成分查询](https://www.luogu.com.cn/paste/yexpkdqq) |
