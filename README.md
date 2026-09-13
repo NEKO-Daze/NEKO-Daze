@@ -1,5 +1,5 @@
-<!-- 浅色模式 -->
-![](https://raw.githubusercontent.com/NEKO-Daze/NEKO-Daze/output/github-contribution-grid-snake.svg)
-
-<!-- 深色模式 (可选，如果需要适配暗黑主题) -->
-![](https://raw.githubusercontent.com/NEKO-Daze/NEKO-Daze/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NEKO-Daze/NEKO-Daze/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NEKO-Daze/NEKO-Daze/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NEKO-Daze/NEKO-Daze/output/github-contribution-grid-snake.svg" />
+</picture>
